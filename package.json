@@ -45,6 +45,7 @@
     "body-parser": "^1.19.0",
     "dropbox": "4.0.9",
     "express": "^4.17.1",
+    "forever": "^3.0.0",
     "i18n-iso-countries": "3.7.8",
     "i18next": "17.0.6",
     "i18next-browser-languagedetector": "3.0.1",
